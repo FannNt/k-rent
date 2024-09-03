@@ -1,0 +1,12 @@
+/home/fn/project/kerent/build/linux/x64/debug/bundle/kerent
+/home/fn/project/kerent/build/linux/x64/debug/bundle/data/icudtl.dat
+/home/fn/project/kerent/build/linux/x64/debug/bundle/lib/libflutter_linux_gtk.so
+/home/fn/project/kerent/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.bin
+/home/fn/project/kerent/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.json
+/home/fn/project/kerent/build/linux/x64/debug/bundle/data/flutter_assets/kernel_blob.bin
+/home/fn/project/kerent/build/linux/x64/debug/bundle/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+/home/fn/project/kerent/build/linux/x64/debug/bundle/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+/home/fn/project/kerent/build/linux/x64/debug/bundle/data/flutter_assets/shaders/ink_sparkle.frag
+/home/fn/project/kerent/build/linux/x64/debug/bundle/data/flutter_assets/version.json
+/home/fn/project/kerent/build/linux/x64/debug/bundle/data/flutter_assets/NOTICES.Z
+/home/fn/project/kerent/build/linux/x64/debug/bundle/data/flutter_assets/FontManifest.json
