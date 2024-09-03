@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "389332734048",
+    "project_id": "kerent-projects",
+    "storage_bucket": "kerent-projects.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:389332734048:android:a67463d26b50ccf4e1b305",
+        "android_client_info": {
+          "package_name": "com.example.kerent"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArUBu4Yd779j8QOqbJ9EQEHRlTYY4_Iio"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:389332734048:android:a82cd626a131b426e1b305",
+        "android_client_info": {
+          "package_name": "k3rent.test.k3rent"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArUBu4Yd779j8QOqbJ9EQEHRlTYY4_Iio"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
