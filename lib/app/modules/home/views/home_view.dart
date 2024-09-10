@@ -8,6 +8,7 @@ import '../controllers/home_controller.dart';
 
 class HomeView extends GetView<HomeController> {
     const HomeView({Key? key}) : super(key: key);
+    
   @override
   Widget build(BuildContext context) {
     MediaQueryData mediaQueryData = MediaQuery.of(context);
@@ -31,7 +32,7 @@ return MaterialApp(
         children: [
             Positioned(
                 left: 25,
-                top: 235,
+                top: 235, 
                 child: Container(
                     width: 310,
                     height: 310,
